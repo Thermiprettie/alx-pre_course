@@ -1,1 +1,1 @@
-"echo file content > up_to_date"
+echo "file content" > up_to_date
